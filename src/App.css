@@ -1,0 +1,226 @@
+/* Navbar */
+
+.navbar {
+  padding-bottom: 1px;
+  border-bottom: solid 1px #e8e8e8;
+  background-color: white;
+  box-shadow: 0 3px 6px -2px rgba(0, 0, 0, 0.12),
+    0 6px 16px -11px rgba(0, 0, 0, 0.08);
+  position: sticky;
+  top: 0;
+  margin-bottom: 50px;
+  z-index: 99;
+}
+
+.nav-header {
+  background-color: white;
+  border-bottom: 0;
+  padding: 0 4px 0 24px;
+}
+
+.logo {
+  width: 260px;
+  float: left;
+}
+
+.logo a {
+  display: inline-block;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.navbar-menu {
+  width: calc(100% - 280px);
+  float: left;
+}
+.navbar-menu .ant-layout-header {
+  padding: 0 20px;
+}
+
+.navbar-menu .ant-menu-horizontal {
+  border-bottom: 0;
+}
+
+.navbar-menu .ant-menu-item {
+  padding-bottom: 0px;
+}
+
+.navbar-menu .leftMenu {
+  float: left;
+}
+
+.navbar-menu .rightMenu {
+  float: right;
+}
+
+.menuButton {
+  float: right;
+  height: 32px;
+  padding: 6px;
+  margin-top: 14px;
+  display: none;
+  background: none;
+  margin-right: 10px;
+}
+
+.ant-drawer-body {
+  padding: 0;
+}
+
+.ant-drawer-body .ant-menu-horizontal > .ant-menu-item,
+.ant-drawer-body .ant-menu-horizontal > .ant-menu-submenu {
+  display: inline-block;
+  width: 100%;
+}
+
+.ant-drawer-body .ant-menu-horizontal {
+  border-bottom: none;
+}
+
+.ant-drawer-body .ant-menu-horizontal > .ant-menu-item:hover {
+  border-bottom-color: transparent;
+}
+
+.username {
+  display: none;
+  margin-left: 8px;
+}
+
+@media (max-width: 767px) {
+  .menuButton {
+    display: block;
+    margin-right: 10px;
+  }
+
+  .leftMenu,
+  .rightMenu {
+    display: none;
+  }
+
+  .logo a {
+    margin-left: -10px;
+  }
+
+  .username {
+    display: inline-block;
+  }
+}
+
+/* Navbar End */
+
+
+.card-wrapper {
+  display: flex;
+  flex-direction: row;
+  cursor: pointer;
+}
+
+.date-card {
+  margin: 1rem 0 0 0;
+  color: rgba(0, 0, 0, 0.7);
+  font-style: italic;
+}
+.dir-left {
+  float: left;
+}
+.dir-right {
+  float: right;
+}
+
+.meta-content {
+  height: 133px;
+  overflow: hidden;
+  margin-top: 1rem !important;
+}
+.image-content {
+  height: 133px;
+}
+.image-content > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.meta-content > div > div {
+  color: rgba(0, 0, 0, 0.8);
+  font-weight: 400;
+  font-size: 16px;
+}
+.like-icon, .dislike-icon {
+  color: hsla(0, 0%, 0%, 0.8) !important;
+  font-size: 20px !important;
+  width: 10% !important;
+}
+.like-icon:hover, .dislike-icon:hover {
+  color: rgba(16, 66, 136) !important;
+}
+
+.green-button {
+  width: 80%;
+  background-color: #48b1140f !important;
+  border-color: #43b50b !important;
+  color: #50d20f !important;
+}
+.green-button:hover {
+  background-color: #48b11400 !important;
+  color: #48b114 !important;
+  border-color: #4fb51c !important;
+}
+.green-button:disabled {
+  color: rgba(0, 0, 0, 0.25) !important;
+  border-color: #d9d9d9 !important;
+  background: #f5f5f5 !important;
+  text-shadow: none !important;
+  box-shadow: none !important;
+}
+.bg-black {
+  background-color: #001529;
+}
+h3 {
+  font-size: 21px;
+  font-weight: 700;
+  color: white !important;
+}
+h3::first-letter {
+  color: red !important;
+}
+.ant-drawer-body {
+  background-color: #001529f6;
+}
+.ant-drawer-header {
+  background-color: #001529f6;
+  color: white;
+  border-bottom: none;
+}
+.ant-drawer-close {
+  color: white;
+}
+.menuButton {
+  color: white !important;
+}
+.ant-pagination-item > a {
+  color: white;
+}
+.ant-pagination-item-active > a {
+  color: #40a9ff;
+}
+.ant-pagination-item-link > span {
+  color: white;
+}
+.ant-pagination-item-active {
+  border-radius: 100% !important;
+}
+
+.api-panel {
+  background-color: azure;
+  padding : 2rem;
+  margin-top: 2rem;
+}
+
+.logo-wrapper {
+  display: flex;
+  flex-direction: row;
+}
+.logo-wrapper > img {
+  width: 79.5px;
+  margin-top: -5px;
+}

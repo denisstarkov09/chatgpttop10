@@ -1,0 +1,137 @@
+[
+    {
+        "label": "Beauty Tips",
+        "value": "Beauty Tips",
+        "prompt": "Give expert advice and hacks to enhance the users' natural beauty in innovative and suprising ways that are a mixture of classical and modern techniques"
+    },
+    {
+        "label": "Book/Movie/Song Recommendations",
+        "value": "Book/Movie/Song Recommendations",
+        "prompt": "Reveal recommendations on inspiring books, movies, or songs new, a mixture of new and old ones, that motivate the user to pursue their dreams"
+    },
+    {
+        "label": "Business Ideas",
+        "value": "Business Ideas",
+        "prompt": "Tell of innovative business ideas to help the user see clear opportunities"
+    },
+    {
+        "label": "Career Advice",
+        "value": "Career Advice",
+        "prompt": "Provide expert advice, hacks, and techniques from top professonals on career advice"
+    },
+    {
+        "label": "Educational Resources",
+        "value": "Educational Resources",
+        "prompt": "Give the user specific information about educational resources that clearly match their interest, such as a list of online courses, specific e-books, webinars, etc"
+    },
+    {
+        "label": "Fashion Advice",
+        "value": "Fashion Advice",
+        "prompt": "Provide expert fashion advice from top stylists and designers, as well as classic tips and hacks that are timeless"
+    },
+    {
+        "label": "Friendship",
+        "value": "Friendship",
+        "prompt": "Provide helpful Friendship advice from top professionals, as well as classic tips and hacks that are timeless"
+    },
+    {
+        "label": "Health & Fitness Tips",
+        "value": "Health & Fitness Tips",
+        "prompt": "Provide expert Health and Fitness advice from top trainers and athletes, as well as classic tips and hacks that are timeless"
+    },
+    {
+        "label": "Home Decoration Ideas",
+        "value": "Home Decoration Ideas",
+        "prompt": "Provide expert Home Decoration advice from top designers, as well as classic tips and hacks that are timeless"
+    },
+    {
+        "label": "Home Improvement Ideas",
+        "value": "Home Improvement Ideas",
+        "prompt": "Provide expert Home Improvement advice from top professionals, as well as classic tips and hacks that are timeless"
+    },
+    {
+        "label": "Inspirational Idea",
+        "value": "Inspirational Idea",
+        "prompt": "Impart Inspirational Ideas for the user to Discover and Pursue their passions in life"
+    },
+    {
+        "label": "Inspirational Quote",
+        "value": "Inspirational Quote",
+        "prompt": "Impart famous quotes that have the power to inspire and motivate the user"
+    },
+    {
+        "label": "Jokes",
+        "value": "Jokes",
+        "prompt": "Impart your best jokes that are sure to get a chuckle"
+    },
+    {
+        "label": "Life Hacks",
+        "value": "Life Hacks",
+        "prompt": "Impart life hacks that will simplify the daily routine, save time and money, improve emotional well-being, help one achieve a better status in life, etc"
+    },
+    {
+        "label": "Love and Romance",
+        "value": "Love and Romance",
+        "prompt": "Provide helpful Love and Romantic advice from top professionals, as well as classic tips and hacks that are timeless"
+    },
+    {
+        "label": "Medical Condition(Ailment)",
+        "value": "Medical Condition(Ailment)",
+        "prompt": "Describe the top hacks and natural remedies that have been found by many to be effective in relieving or curing"
+    },
+    {
+        "label": "Mental Health Coping Strategies",
+        "value": "Mental Health Coping Strategies",
+        "prompt": "Describe the top hacks and natural remedies and coping strategies that have been found by many to be effective in overcoming stress and anxiety"
+    },
+    {
+        "label": "Personal Finance Advice",
+        "value": "Personal Finance Advice",
+        "prompt": "Provide helpful Personal Finance advice from top professionals, as well as classic tips and hacks that are timeless"
+    },
+    {
+        "label": "Product Reviews",
+        "value": "Product Reviews",
+        "prompt": "Share your insightful opinion on the best product in the category and how it may help the user"
+    },
+    {
+        "label": "Parenting Advice",
+        "value": "Parenting Advice",
+        "prompt": "Provide helpful Parenting advice from top professionals, as well as classic tips and hacks that are timeless"
+    },
+    {
+        "label": "Recipe",
+        "value": "Recipe",
+        "prompt": "Share recipes that are popular and easy, and relatively healthy; a mixture of classic ones and modern ones"
+    },
+    {
+        "label": "Song Lyrics",
+        "value": "Song Lyrics",
+        "prompt": "Tell inspiring song lyrics related to the keyword; ones that tend to be inspiring, funny, exciting, or nostalgic"
+    },
+    {
+        "label": "Tech Solutions",
+        "value": "Tech Solutions",
+        "prompt": "Provide helpful Tech Solutions advice from top professionals, as well as classic tips and hacks that are timeless"
+    },
+    {
+        "label": "Travel Itineraries",
+        "value": "Travel Itineraries",
+        "prompt": "Reveal travel itineraries that are interesting, exciting, fun, novel, or classic, that will appeal to adventure seekers, and users seeking something new in different for their next trip"
+    },
+    {
+        "label": "Workout Routines",
+        "value": "Workout Routines",
+        "prompt": "Provide brief but useful workout routines that are innovative, fun, effective, different,  transforming or inspiring"
+    },
+    {
+        "label": "Writing Prompts",
+        "value": "Writing Prompts",
+        "prompt": "Provide writing prompts that aim to alleviate writer's block instantly or to inspire someone to get started writing something on a related topic"
+    },
+    {
+        "label": "AI Image - Bonus Category! (1 inspiration)",
+        "value": "AI Image",
+        "prompt": "Generate an image related to the keyword that is inspiring, funny, novel, creative, awesome, different, or unique"
+    }
+]
